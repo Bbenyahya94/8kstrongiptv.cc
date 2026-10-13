@@ -1,0 +1,24 @@
+.plan-actions {
+  display: grid;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.plan-actions a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 42px;
+}
+
+.plan-actions .whatsapp-choice {
+  border-color: #25d366;
+  background: #25d366;
+  color: #04130a;
+}
+
+.plan-actions .telegram-choice {
+  border-color: #29a9ea;
+  background: #0d2333;
+  color: #63cfff;
+}
